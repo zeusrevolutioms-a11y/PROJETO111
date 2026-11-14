@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAMER\\Desktop\\Rp_Editor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4B9B24-97E4-9CBF-BC2D-1353A7364651}|ZeusMapEditor.csproj|c:\\users\\gamer\\desktop\\rp_editor\\core\\gtamapdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4B9B24-97E4-9CBF-BC2D-1353A7364651}|ZeusMapEditor.csproj|solutionrelative:core\\gtamapdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GtaMapDocument.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\Desktop\\Rp_Editor\\Core\\GtaMapDocument.cs",
+              "RelativeDocumentMoniker": "Core\\GtaMapDocument.cs",
+              "ToolTip": "C:\\Users\\GAMER\\Desktop\\Rp_Editor\\Core\\GtaMapDocument.cs",
+              "RelativeToolTip": "Core\\GtaMapDocument.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwFcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:25:10.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\GAMER\Desktop\Rp_Editor\obj\Debug\net472\ZeusMapEditor.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Rp_Editor\obj\Debug\net472\ZeusMapEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMER\Desktop\Rp_Editor\obj\Debug\net472\ZeusMapEditor.exe.config
+C:\Users\GAMER\Desktop\Rp_Editor\obj\Debug\net472\ZeusMapEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Rp_Editor\obj\Debug\net472\ZeusMapEditor.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Rp_Editor\obj\Debug\net472\ZeusMapEditor.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Rp_Editor\obj\Debug\net472\ZeusMapEditor.csproj.CoreCompileInputs.cache
